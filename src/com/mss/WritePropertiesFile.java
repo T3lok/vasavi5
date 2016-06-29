@@ -15,6 +15,7 @@ import java.util.logging.Logger;
  *
  * @author miracle
  */
+//hello this is sowmya commit
 public class WritePropertiesFile {
 
     public static void main(String[] args) {
